@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.tbg.currencywidget"
+    android:versionCode="6"
+    android:versionName="1.0.5" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="18" />
+    <!-- Internet Permissions -->
+    <uses-permission android:name="android.permission.INTERNET" >
+    </uses-permission>
+    <!-- Network State Permissions -->
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <!-- Wake lock is used in broadcast receiver -->
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:name="RatesLoader"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <receiver
+            android:name="com.tbg.currencywidget.widget.CurrencyWidget"
+            android:icon="@drawable/currency_widget_icon"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+                <action android:name="com.tbg.currencywidget.widget.UPDATE"/>
+            </intent-filter>
+
+            <meta-data
+                android:name="android.appwidget.provider"
+                android:resource="@xml/widget_metadata" >
+            </meta-data>
+        </receiver>
+        <receiver android:name="com.tbg.currencywidget.widget.CurrencyWidgetBroadcastReceiver" />
+
+        <provider
+            android:name="com.tbg.currencywidget.data.CurrenciesContentProvider"
+            android:authorities="com.tbg.pavlya.currencies.contentprovider" >
+        </provider>
+        <provider
+            android:name="com.tbg.currencywidget.data.CurrenciesRatesContentProvider"
+            android:authorities="com.tbg.pavlya.currencies_rates.contentprovider" >
+        </provider>
+
+        <activity
+            android:name="com.tbg.currencywidget.CurrenciesActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
