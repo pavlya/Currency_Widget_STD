@@ -1,3 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
 
+    <item
+        jar="C:\Users\Pavlya\AndroidStudioProjects\Currency_Widget_STD\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\Pavlya\AndroidStudioProjects\Currency_Widget_STD\app\build\intermediates\pre-dexed\release\internal_impl-23.1.1_72c27bd9510e82cd617bcf3ddc66f446af9261fe.jar" />
+    </item>
+    <item
+        jar="C:\Users\Pavlya\AndroidStudioProjects\Currency_Widget_STD\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\Pavlya\AndroidStudioProjects\Currency_Widget_STD\app\build\intermediates\pre-dexed\release\com.android.support-support-v4-23.1.1_b8f27b4cc45055f988d02c3eb2981c61399257e0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Pavlya\AndroidStudioProjects\Currency_Widget_STD\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="C:\Users\Pavlya\AndroidStudioProjects\Currency_Widget_STD\app\build\intermediates\pre-dexed\release\com.android.support-design-23.1.1_53175e470e01bf1ea791faaabedd183d12f63354.jar" />
+    </item>
+    <item
+        jar="C:\Users\Pavlya\AndroidStudioProjects\Currency_Widget_STD\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="345a1b5cf5b144ce18ba6962bc66a7e2f26c1c1b">
+        <dex dex="C:\Users\Pavlya\AndroidStudioProjects\Currency_Widget_STD\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-basement-8.3.0_f0e8c930690660af554c19f5f20e807b2d19c9c4.jar" />
+    </item>
+    <item
+        jar="E:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\Users\Pavlya\AndroidStudioProjects\Currency_Widget_STD\app\build\intermediates\pre-dexed\release\support-annotations-23.1.1_aa5c5cff6a92560fa20d72dfd632fd3c7d00957e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Pavlya\AndroidStudioProjects\Currency_Widget_STD\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\Users\Pavlya\AndroidStudioProjects\Currency_Widget_STD\app\build\intermediates\pre-dexed\release\com.android.support-appcompat-v7-23.1.1_70dfa4351fa118dd15d80e5483c1be413d034250.jar" />
+    </item>
+    <item
+        jar="C:\Users\Pavlya\AndroidStudioProjects\Currency_Widget_STD\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="C:\Users\Pavlya\AndroidStudioProjects\Currency_Widget_STD\app\build\intermediates\pre-dexed\release\com.android.support-recyclerview-v7-23.1.1_9fb4fa20595e71134738948127c7d3abf8ef587e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Pavlya\AndroidStudioProjects\Currency_Widget_STD\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="27775d59b16610ac76f1b83693fedd9520396332">
+        <dex dex="C:\Users\Pavlya\AndroidStudioProjects\Currency_Widget_STD\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-ads-8.3.0_ee58119440967857d20529de0a61d436737e82c2.jar" />
+    </item>
+
+</items>
