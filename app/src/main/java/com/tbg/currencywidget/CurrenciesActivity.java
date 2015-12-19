@@ -198,6 +198,66 @@ public class CurrenciesActivity extends FragmentActivity implements
         setResult(RESULT_CANCELED, resultValue);
 
 
+
+
+        // get position of stored currencies
+        SharedPreferences sharedPreferences = getSharedPreferences(
+                ConverterAppConstants.WIDGET_PREF, MODE_PRIVATE);
+        fromPosition = sharedPreferences.getInt(
+                ConverterAppConstants.WIDGET_FROM_POSITION + widgetID, 23);
+        toPosition = sharedPreferences.getInt(
+                ConverterAppConstants.WIDGET_TO_POSITION + widgetID,
+                USD_POSITION); // usd poisition
+        fromValue = sharedPreferences.getFloat(
+                ConverterAppConstants.WIDGET_CONVERTED_FROM_AMOUNT + widgetID,
+                1);
+        toValue = sharedPreferences.getFloat(
+                ConverterAppConstants.WIDGET_CONVERTED_TO_AMOUNT + widgetID, 1);
+
+        // load rates
+        // ratesLoader = RatesLoader.getInstance(this, this);
+        ratesLoader = RatesLoader.getInstance();
+        df = new DecimalFormat("#.###", new DecimalFormatSymbols(Locale.US));
+        initViews(); // init views
+        fillData(); // fill Activity variables with data
+        initAdds();
+
+
+    }
+
+    private void initAdds() {
+        // banner adds
+        AdView mAdView = (AdView) findViewById(R.id.adView);
+        AdRequest adRequest = new AdRequest.Builder().build();
+        mAdView.loadAd(adRequest);
+
+        // interstital add
+        mInterstitialAd = new InterstitialAd(getApplicationContext());
+        String interstitialAddString = getResources().getString(R.string.interstitial_ad_unit_id);
+        mInterstitialAd.setAdUnitId(interstitialAddString);
+
+        //test for git
+
+//        mInterstitialAd.setAdListener(new AdListener() {
+//            @Override
+//            public void onAdClosed() {
+//                requestNewInterstitial();
+////                beginPlayingGame();
+//            }
+//        });
+
+//        requestNewInterstitial();
+    }
+
+    private void requestNewInterstitial() {
+//        AdRequest adRequest = new AdRequest.Builder()
+//                .addTestDevice("SEE_YOUR_LOGCAT_TO_GET_YOUR_DEVICE_ID")
+//                .build();
+
+//        mInterstitialAd.loadAd(adRequest);
+    }
+
+    private void initViews() {
         setContentView(ACTIVITY_LAYOUT);
         //
         // request focus to remove focusing on text view and opening keyboard on
@@ -226,63 +286,6 @@ public class CurrenciesActivity extends FragmentActivity implements
         etTo.addTextChangedListener(etToListener);
         etFrom.addTextChangedListener(etFromListener);
 
-        // get position of stored currencies
-        SharedPreferences sharedPreferences = getSharedPreferences(
-                ConverterAppConstants.WIDGET_PREF, MODE_PRIVATE);
-        fromPosition = sharedPreferences.getInt(
-                ConverterAppConstants.WIDGET_FROM_POSITION + widgetID, 23);
-        toPosition = sharedPreferences.getInt(
-                ConverterAppConstants.WIDGET_TO_POSITION + widgetID,
-                USD_POSITION); // usd poisition
-        fromValue = sharedPreferences.getFloat(
-                ConverterAppConstants.WIDGET_CONVERTED_FROM_AMOUNT + widgetID,
-                1);
-        toValue = sharedPreferences.getFloat(
-                ConverterAppConstants.WIDGET_CONVERTED_TO_AMOUNT + widgetID, 1);
-
-        // load rates
-        // ratesLoader = RatesLoader.getInstance(this, this);
-        ratesLoader = RatesLoader.getInstance();
-        df = new DecimalFormat("#.###", new DecimalFormatSymbols(Locale.US));
-        initViews(); // init views
-        fillData(); // fill Activity variables with data
-        initAdds();
-
-
-    }
-
-    private void initAdds() {
-        // init adds
-        AdView mAdView = (AdView) findViewById(R.id.adView);
-        AdRequest adRequest = new AdRequest.Builder().build();
-        mAdView.loadAd(adRequest);
-        // interstital add
-        mInterstitialAd = new InterstitialAd(getApplicationContext());
-        String interstitialAddString = getResources().getString(R.string.interstitial_ad_unit_id);
-        mInterstitialAd.setAdUnitId(interstitialAddString);
-
-        //test for git
-
-        mInterstitialAd.setAdListener(new AdListener() {
-            @Override
-            public void onAdClosed() {
-                requestNewInterstitial();
-//                beginPlayingGame();
-            }
-        });
-
-        requestNewInterstitial();
-    }
-
-    private void requestNewInterstitial() {
-        AdRequest adRequest = new AdRequest.Builder()
-                .addTestDevice("SEE_YOUR_LOGCAT_TO_GET_YOUR_DEVICE_ID")
-                .build();
-
-        mInterstitialAd.loadAd(adRequest);
-    }
-
-    private void initViews() {
         ivFrom.setImageDrawable(Utils.getCurrencyDrawable(
                 CurrenciesActivity.this, fromString));
         ivTo.setImageDrawable(Utils.getCurrencyDrawable(
@@ -507,8 +510,15 @@ public class CurrenciesActivity extends FragmentActivity implements
                 showTabbedDialog(TO_CURRENCY_SELECTOR);
                 break;
             case R.id.btn_submit:
+                if(mInterstitialAd.isLoaded()){
+                    mInterstitialAd.show();
+                } else {
+                    Toast.makeText(getApplication().getApplicationContext(),
+                            "Interstitial ad was not ready", Toast.LENGTH_SHORT).show();
+                }
                 sp = saveValuesToSharedPrefs(fromPosition, toPosition);
                 updateWidgetAndClose(sp);
+
                 break;
             default:
                 break;

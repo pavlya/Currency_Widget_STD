@@ -2,5 +2,9 @@
     {
         "merged": "C:\\!projects\\Currency_Widget\\app\\build\\intermediates\\res\\merged\\debug\\xml\\widget_metadata.xml",
         "source": "C:\\!projects\\Currency_Widget\\app\\src\\main\\res\\xml\\widget_metadata.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\debug\\xml\\widget_metadata.xml",
+        "source": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\src\\main\\res\\xml\\widget_metadata.xml"
     }
 ]

@@ -1,11 +1,31 @@
 [
     {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v14\\appwidget_inner_focused_r.9.png",
+        "source": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\src\\main\\res\\drawable-xhdpi-v14\\appwidget_inner_focused_r.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v14\\appwidget_dark_bg_focused.9.png",
+        "source": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\src\\main\\res\\drawable-xhdpi-v14\\appwidget_dark_bg_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v14\\appwidget_inner_focused_c.9.png",
+        "source": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\src\\main\\res\\drawable-xhdpi-v14\\appwidget_inner_focused_c.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v14\\appwidget_inner_pressed_r.9.png",
+        "source": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\src\\main\\res\\drawable-xhdpi-v14\\appwidget_inner_pressed_r.9.png"
+    },
+    {
         "merged": "C:\\!projects\\Currency_Widget\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v14\\appwidget_inner_focused_c.9.png",
         "source": "C:\\!projects\\Currency_Widget\\app\\src\\main\\res\\drawable-xhdpi-v14\\appwidget_inner_focused_c.9.png"
     },
     {
         "merged": "C:\\!projects\\Currency_Widget\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v14\\appwidget_inner_focused_r.9.png",
         "source": "C:\\!projects\\Currency_Widget\\app\\src\\main\\res\\drawable-xhdpi-v14\\appwidget_inner_focused_r.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v14\\appwidget_bg_pressed.9.png",
+        "source": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\src\\main\\res\\drawable-xhdpi-v14\\appwidget_bg_pressed.9.png"
     },
     {
         "merged": "C:\\!projects\\Currency_Widget\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v14\\appwidget_inner_focused_l.9.png",
@@ -24,12 +44,36 @@
         "source": "C:\\!projects\\Currency_Widget\\app\\src\\main\\res\\drawable-xhdpi-v14\\appwidget_bg_focused.9.png"
     },
     {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v14\\appwidget_bg.9.png",
+        "source": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\src\\main\\res\\drawable-xhdpi-v14\\appwidget_bg.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v14\\appwidget_bg_focused.9.png",
+        "source": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\src\\main\\res\\drawable-xhdpi-v14\\appwidget_bg_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v14\\appwidget_inner_focused_l.9.png",
+        "source": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\src\\main\\res\\drawable-xhdpi-v14\\appwidget_inner_focused_l.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v14\\appwidget_inner_pressed_l.9.png",
+        "source": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\src\\main\\res\\drawable-xhdpi-v14\\appwidget_inner_pressed_l.9.png"
+    },
+    {
         "merged": "C:\\!projects\\Currency_Widget\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v14\\appwidget_dark_bg_focused.9.png",
         "source": "C:\\!projects\\Currency_Widget\\app\\src\\main\\res\\drawable-xhdpi-v14\\appwidget_dark_bg_focused.9.png"
     },
     {
         "merged": "C:\\!projects\\Currency_Widget\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v14\\appwidget_bg_pressed.9.png",
         "source": "C:\\!projects\\Currency_Widget\\app\\src\\main\\res\\drawable-xhdpi-v14\\appwidget_bg_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v14\\appwidget_inner_pressed_c.9.png",
+        "source": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\src\\main\\res\\drawable-xhdpi-v14\\appwidget_inner_pressed_c.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v14\\appwidget_dark_bg.9.png",
+        "source": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\src\\main\\res\\drawable-xhdpi-v14\\appwidget_dark_bg.9.png"
     },
     {
         "merged": "C:\\!projects\\Currency_Widget\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v14\\appwidget_inner_pressed_c.9.png",
