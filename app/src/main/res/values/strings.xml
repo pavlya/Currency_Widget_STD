@@ -7,7 +7,7 @@
     <string name="hello_world">Hello world!</string>
     <string name="close">Close</string>
     <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
-    <string name="interstitial_ad_unit_id">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="interstitial_ad_unit_id"> ca-app-pub-3004828240532820/5829286391</string>
 
 
     <string-array name="currencies_dummy">

@@ -52,12 +52,12 @@
         "source": "C:\\!projects\\Currency_Widget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_search_view.xml"
     },
     {
-        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
-        "source": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_lines.xml"
-    },
-    {
         "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
         "source": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_lines.xml"
     },
     {
         "merged": "C:\\!projects\\Currency_Widget\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",

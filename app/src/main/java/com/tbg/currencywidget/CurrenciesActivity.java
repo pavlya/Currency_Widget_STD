@@ -226,10 +226,6 @@ public class CurrenciesActivity extends FragmentActivity implements
     }
 
     private void initAdds() {
-        // banner adds
-        AdView mAdView = (AdView) findViewById(R.id.adView);
-        AdRequest adRequest = new AdRequest.Builder().build();
-        mAdView.loadAd(adRequest);
 
         // interstital add
         mInterstitialAd = new InterstitialAd(getApplicationContext());
@@ -238,23 +234,22 @@ public class CurrenciesActivity extends FragmentActivity implements
 
         //test for git
 
-//        mInterstitialAd.setAdListener(new AdListener() {
-//            @Override
-//            public void onAdClosed() {
-//                requestNewInterstitial();
-////                beginPlayingGame();
-//            }
-//        });
+        mInterstitialAd.setAdListener(new AdListener() {
+            @Override
+            public void onAdClosed() {
+                requestNewInterstitial();
+            }
+        });
 
-//        requestNewInterstitial();
+        requestNewInterstitial();
     }
 
     private void requestNewInterstitial() {
-//        AdRequest adRequest = new AdRequest.Builder()
-//                .addTestDevice("SEE_YOUR_LOGCAT_TO_GET_YOUR_DEVICE_ID")
-//                .build();
+        AdRequest adRequest = new AdRequest.Builder()
+                .addTestDevice("SEE_YOUR_LOGCAT_TO_GET_YOUR_DEVICE_ID")
+                .build();
 
-//        mInterstitialAd.loadAd(adRequest);
+        mInterstitialAd.loadAd(adRequest);
     }
 
     private void initViews() {
@@ -513,8 +508,9 @@ public class CurrenciesActivity extends FragmentActivity implements
                 if(mInterstitialAd.isLoaded()){
                     mInterstitialAd.show();
                 } else {
-                    Toast.makeText(getApplication().getApplicationContext(),
-                            "Interstitial ad was not ready", Toast.LENGTH_SHORT).show();
+
+//                    Toast.makeText(getApplication().getApplicationContext(),
+//                            "Interstitial ad was not ready", Toast.LENGTH_SHORT).show();
                 }
                 sp = saveValuesToSharedPrefs(fromPosition, toPosition);
                 updateWidgetAndClose(sp);
@@ -660,13 +656,13 @@ public class CurrenciesActivity extends FragmentActivity implements
             @Override
             public void onItemClick(AdapterView<?> parent, View view,
                                     int position, long id) {
-                setCurrencyValueAccordingToDialog(from, id);
-                // restart loaders when dialog closed
-                getSupportLoaderManager().restartLoader(ACTIVITY_LOADER_ID,
-                        null, CurrenciesActivity.this);
-                updateValuesOnDialogClosed();
-
-                dialog.dismiss();
+                updateItemValuesInCurrencyDialig((ViewGroup) view, id, from, dialog);
+//                setCurrencyValueAccordingToDialog(from, id);
+//                // restart loaders when dialog closed
+//                getSupportLoaderManager().restartLoader(ACTIVITY_LOADER_ID,
+//                        null, CurrenciesActivity.this);
+//                updateValuesOnDialogClosed();
+//                dialog.dismiss();
             }
         });
 
@@ -686,23 +682,7 @@ public class CurrenciesActivity extends FragmentActivity implements
             @Override
             public void onItemClick(AdapterView<?> parent, View view,
                                     int position, long id) {
-                ViewGroup group = (ViewGroup) ((ViewGroup) view).getChildAt(0); // nested
-                // group
-                Switch sw = (Switch) group.getChildAt(1); // index of switch
-//				SwitchCompat sw = (SwitchCompat) group.getChildAt(1); // index of switch
-                int answer = CurrenciesAdapter.getValueOfCheckbox(sw, (int) id);
-                if (answer == 0) {
-                    CurrenciesAdapter.updateFavoriteValue(
-                            CurrenciesActivity.this, (int) id, 1); // update
-                    // with 1
-                } else if (answer == 1) {
-                    CurrenciesAdapter.updateFavoriteValue(
-                            CurrenciesActivity.this, (int) id, 0); // update
-                    // with 0
-                }
-                setCurrencyValueAccordingToDialog(from, id);
-                dialog.dismiss();
-                updateValuesOnDialogClosed();
+                updateItemValuesInCurrencyDialig((ViewGroup) view, id, from, dialog);
             }
         });
         tabs.addTab(favoritesTab);
@@ -756,6 +736,28 @@ public class CurrenciesActivity extends FragmentActivity implements
         });
 
         dialog.show();
+    }
+
+    private void updateItemValuesInCurrencyDialig(ViewGroup view, long id, int from, Dialog dialog) {
+        setCurrencyValueAccordingToDialog(from, id);
+        ViewGroup group = (ViewGroup) view.getChildAt(0); // nested
+        // group
+        // check if the item is selected in "favorites" menu, if not, add it to "favorites" menu
+        Switch sw = (Switch) group.getChildAt(1); // index of switch
+        int answer = CurrenciesAdapter.getValueOfCheckbox(sw, (int) id);
+        if (answer == 0) {
+            CurrenciesAdapter.updateFavoriteValue(
+                    CurrenciesActivity.this, (int) id, 1); // update
+            // with 1
+        }
+//        else if (answer == 1) {
+//            CurrenciesAdapter.updateFavoriteValue(
+//                    CurrenciesActivity.this, (int) id, 0); // update
+//            // with 0
+//        }
+        setCurrencyValueAccordingToDialog(from, id);
+        dialog.dismiss();
+        updateValuesOnDialogClosed();
     }
 
     /**
