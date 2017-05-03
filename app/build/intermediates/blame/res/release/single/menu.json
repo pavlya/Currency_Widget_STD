@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\menu\\main.xml",
+        "source": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\menu\\currencies.xml",
+        "source": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\src\\main\\res\\menu\\currencies.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\menu\\listmenu.xml",
+        "source": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\src\\main\\res\\menu\\listmenu.xml"
+    }
+]

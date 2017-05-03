@@ -415,9 +415,8 @@ public class RatesLoader extends Application {
 		}
 		// split response
 		String[] output = result.split(",");
-		// the rates are the second value in CSV
+		// the rates are the second value in CS
 		String ratesOutput = output[1];
-
 		return Double.valueOf(ratesOutput);
 	}
 

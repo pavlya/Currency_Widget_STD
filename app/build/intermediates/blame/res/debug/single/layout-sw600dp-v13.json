@@ -1,10 +1,6 @@
 [
     {
-        "merged": "C:\\!projects\\Currency_Widget\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
-        "source": "C:\\!projects\\Currency_Widget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout-sw600dp\\design_layout_snackbar.xml"
-    },
-    {
         "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
-        "source": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout-sw600dp\\design_layout_snackbar.xml"
+        "source": "C:\\Users\\Pavlya\\.android\\build-cache\\31b22c31c20290247cb846c7bc9020ca091a7cad\\output\\res\\layout-sw600dp\\design_layout_snackbar.xml"
     }
 ]

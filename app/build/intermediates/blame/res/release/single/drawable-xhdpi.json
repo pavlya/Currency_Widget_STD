@@ -1,0 +1,542 @@
+[
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\uzs.png",
+        "source": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\src\\main\\res\\drawable-xhdpi\\uzs.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\abc_list_pressed_holo_dark.9.png",
+        "source": "C:\\Users\\Pavlya\\.android\\build-cache\\28e6a633299a9e6dab84f27d145ee2bf794c2c7a\\output\\res\\drawable-xhdpi\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "C:\\Users\\Pavlya\\.android\\build-cache\\28e6a633299a9e6dab84f27d145ee2bf794c2c7a\\output\\res\\drawable-xhdpi\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "C:\\Users\\Pavlya\\.android\\build-cache\\28e6a633299a9e6dab84f27d145ee2bf794c2c7a\\output\\res\\drawable-xhdpi\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\aed.png",
+        "source": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\src\\main\\res\\drawable-xhdpi\\aed.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Pavlya\\.android\\build-cache\\28e6a633299a9e6dab84f27d145ee2bf794c2c7a\\output\\res\\drawable-xhdpi\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\kzt.png",
+        "source": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\src\\main\\res\\drawable-xhdpi\\kzt.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\inr.png",
+        "source": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\src\\main\\res\\drawable-xhdpi\\inr.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "C:\\Users\\Pavlya\\.android\\build-cache\\28e6a633299a9e6dab84f27d145ee2bf794c2c7a\\output\\res\\drawable-xhdpi\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\pgk.png",
+        "source": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\src\\main\\res\\drawable-xhdpi\\pgk.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\ang.png",
+        "source": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\src\\main\\res\\drawable-xhdpi\\ang.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\php.png",
+        "source": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\src\\main\\res\\drawable-xhdpi\\php.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\brl.png",
+        "source": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\src\\main\\res\\drawable-xhdpi\\brl.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\krw.png",
+        "source": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\src\\main\\res\\drawable-xhdpi\\krw.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\bhd.png",
+        "source": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\src\\main\\res\\drawable-xhdpi\\bhd.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "C:\\Users\\Pavlya\\.android\\build-cache\\28e6a633299a9e6dab84f27d145ee2bf794c2c7a\\output\\res\\drawable-xhdpi\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\tnd.png",
+        "source": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\src\\main\\res\\drawable-xhdpi\\tnd.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\vnd.png",
+        "source": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\src\\main\\res\\drawable-xhdpi\\vnd.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "C:\\Users\\Pavlya\\.android\\build-cache\\28e6a633299a9e6dab84f27d145ee2bf794c2c7a\\output\\res\\drawable-xhdpi\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\hkd.png",
+        "source": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\src\\main\\res\\drawable-xhdpi\\hkd.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\tzs.png",
+        "source": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\src\\main\\res\\drawable-xhdpi\\tzs.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "C:\\Users\\Pavlya\\.android\\build-cache\\28e6a633299a9e6dab84f27d145ee2bf794c2c7a\\output\\res\\drawable-xhdpi\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\mkd.png",
+        "source": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\src\\main\\res\\drawable-xhdpi\\mkd.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\bgn.png",
+        "source": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\src\\main\\res\\drawable-xhdpi\\bgn.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\lkr.png",
+        "source": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\src\\main\\res\\drawable-xhdpi\\lkr.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\uah.png",
+        "source": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\src\\main\\res\\drawable-xhdpi\\uah.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\lbp.png",
+        "source": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\src\\main\\res\\drawable-xhdpi\\lbp.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\abc_list_longpressed_holo.9.png",
+        "source": "C:\\Users\\Pavlya\\.android\\build-cache\\28e6a633299a9e6dab84f27d145ee2bf794c2c7a\\output\\res\\drawable-xhdpi\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\jpy.png",
+        "source": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\src\\main\\res\\drawable-xhdpi\\jpy.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Pavlya\\.android\\build-cache\\28e6a633299a9e6dab84f27d145ee2bf794c2c7a\\output\\res\\drawable-xhdpi\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\pkr.png",
+        "source": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\src\\main\\res\\drawable-xhdpi\\pkr.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\scr.png",
+        "source": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\src\\main\\res\\drawable-xhdpi\\scr.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "C:\\Users\\Pavlya\\.android\\build-cache\\28e6a633299a9e6dab84f27d145ee2bf794c2c7a\\output\\res\\drawable-xhdpi\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\svc.png",
+        "source": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\src\\main\\res\\drawable-xhdpi\\svc.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\zmk.png",
+        "source": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\src\\main\\res\\drawable-xhdpi\\zmk.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\abc_list_focused_holo.9.png",
+        "source": "C:\\Users\\Pavlya\\.android\\build-cache\\28e6a633299a9e6dab84f27d145ee2bf794c2c7a\\output\\res\\drawable-xhdpi\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\fjd.png",
+        "source": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\src\\main\\res\\drawable-xhdpi\\fjd.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\abc_ic_clear_mtrl_alpha.png",
+        "source": "C:\\Users\\Pavlya\\.android\\build-cache\\28e6a633299a9e6dab84f27d145ee2bf794c2c7a\\output\\res\\drawable-xhdpi\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\bob.png",
+        "source": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\src\\main\\res\\drawable-xhdpi\\bob.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "C:\\Users\\Pavlya\\.android\\build-cache\\28e6a633299a9e6dab84f27d145ee2bf794c2c7a\\output\\res\\drawable-xhdpi\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\ngn.png",
+        "source": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\src\\main\\res\\drawable-xhdpi\\ngn.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\zar.png",
+        "source": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\src\\main\\res\\drawable-xhdpi\\zar.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\sar.png",
+        "source": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\src\\main\\res\\drawable-xhdpi\\sar.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\lvl.png",
+        "source": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\src\\main\\res\\drawable-xhdpi\\lvl.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "C:\\Users\\Pavlya\\.android\\build-cache\\28e6a633299a9e6dab84f27d145ee2bf794c2c7a\\output\\res\\drawable-xhdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\abc_list_pressed_holo_light.9.png",
+        "source": "C:\\Users\\Pavlya\\.android\\build-cache\\28e6a633299a9e6dab84f27d145ee2bf794c2c7a\\output\\res\\drawable-xhdpi\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\myr.png",
+        "source": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\src\\main\\res\\drawable-xhdpi\\myr.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "C:\\Users\\Pavlya\\.android\\build-cache\\28e6a633299a9e6dab84f27d145ee2bf794c2c7a\\output\\res\\drawable-xhdpi\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Pavlya\\.android\\build-cache\\28e6a633299a9e6dab84f27d145ee2bf794c2c7a\\output\\res\\drawable-xhdpi\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\aud.png",
+        "source": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\src\\main\\res\\drawable-xhdpi\\aud.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "C:\\Users\\Pavlya\\.android\\build-cache\\28e6a633299a9e6dab84f27d145ee2bf794c2c7a\\output\\res\\drawable-xhdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\kes.png",
+        "source": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\src\\main\\res\\drawable-xhdpi\\kes.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\vef.png",
+        "source": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\src\\main\\res\\drawable-xhdpi\\vef.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\yer.png",
+        "source": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\src\\main\\res\\drawable-xhdpi\\yer.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\bwp.png",
+        "source": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\src\\main\\res\\drawable-xhdpi\\bwp.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\nok.png",
+        "source": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\src\\main\\res\\drawable-xhdpi\\nok.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\Pavlya\\.android\\build-cache\\28e6a633299a9e6dab84f27d145ee2bf794c2c7a\\output\\res\\drawable-xhdpi\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\chf.png",
+        "source": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\src\\main\\res\\drawable-xhdpi\\chf.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\mdl.png",
+        "source": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\src\\main\\res\\drawable-xhdpi\\mdl.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Pavlya\\.android\\build-cache\\28e6a633299a9e6dab84f27d145ee2bf794c2c7a\\output\\res\\drawable-xhdpi\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\ttd.png",
+        "source": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\src\\main\\res\\drawable-xhdpi\\ttd.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\ron.png",
+        "source": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\src\\main\\res\\drawable-xhdpi\\ron.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\abc_popup_background_mtrl_mult.9.png",
+        "source": "C:\\Users\\Pavlya\\.android\\build-cache\\28e6a633299a9e6dab84f27d145ee2bf794c2c7a\\output\\res\\drawable-xhdpi\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\kyd.png",
+        "source": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\src\\main\\res\\drawable-xhdpi\\kyd.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\rub.png",
+        "source": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\src\\main\\res\\drawable-xhdpi\\rub.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "C:\\Users\\Pavlya\\.android\\build-cache\\28e6a633299a9e6dab84f27d145ee2bf794c2c7a\\output\\res\\drawable-xhdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\pen.png",
+        "source": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\src\\main\\res\\drawable-xhdpi\\pen.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\hrk.png",
+        "source": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\src\\main\\res\\drawable-xhdpi\\hrk.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Pavlya\\.android\\build-cache\\28e6a633299a9e6dab84f27d145ee2bf794c2c7a\\output\\res\\drawable-xhdpi\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\nad.png",
+        "source": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\src\\main\\res\\drawable-xhdpi\\nad.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\mad.png",
+        "source": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\src\\main\\res\\drawable-xhdpi\\mad.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\uyu.png",
+        "source": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\src\\main\\res\\drawable-xhdpi\\uyu.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "C:\\Users\\Pavlya\\.android\\build-cache\\28e6a633299a9e6dab84f27d145ee2bf794c2c7a\\output\\res\\drawable-xhdpi\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\huf.png",
+        "source": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\src\\main\\res\\drawable-xhdpi\\huf.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\dkk.png",
+        "source": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\src\\main\\res\\drawable-xhdpi\\dkk.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\cop.png",
+        "source": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\src\\main\\res\\drawable-xhdpi\\cop.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\hnl.png",
+        "source": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\src\\main\\res\\drawable-xhdpi\\hnl.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\clp.png",
+        "source": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\src\\main\\res\\drawable-xhdpi\\clp.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "C:\\Users\\Pavlya\\.android\\build-cache\\28e6a633299a9e6dab84f27d145ee2bf794c2c7a\\output\\res\\drawable-xhdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\dop.png",
+        "source": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\src\\main\\res\\drawable-xhdpi\\dop.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Pavlya\\.android\\build-cache\\28e6a633299a9e6dab84f27d145ee2bf794c2c7a\\output\\res\\drawable-xhdpi\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\pln.png",
+        "source": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\src\\main\\res\\drawable-xhdpi\\pln.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\ltl.png",
+        "source": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\src\\main\\res\\drawable-xhdpi\\ltl.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\dzd.png",
+        "source": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\src\\main\\res\\drawable-xhdpi\\dzd.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Pavlya\\.android\\build-cache\\28e6a633299a9e6dab84f27d145ee2bf794c2c7a\\output\\res\\drawable-xhdpi\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\back_texture.png",
+        "source": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\src\\main\\res\\drawable-xhdpi\\back_texture.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\cad.png",
+        "source": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\src\\main\\res\\drawable-xhdpi\\cad.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "C:\\Users\\Pavlya\\.android\\build-cache\\28e6a633299a9e6dab84f27d145ee2bf794c2c7a\\output\\res\\drawable-xhdpi\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\idr.png",
+        "source": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\src\\main\\res\\drawable-xhdpi\\idr.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Pavlya\\.android\\build-cache\\28e6a633299a9e6dab84f27d145ee2bf794c2c7a\\output\\res\\drawable-xhdpi\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\cny.png",
+        "source": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\src\\main\\res\\drawable-xhdpi\\cny.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\common_full_open_on_phone.png",
+        "source": "C:\\Users\\Pavlya\\.android\\build-cache\\a6b947dc0f02c190959b210e8ff76678d650fa3c\\output\\res\\drawable-xhdpi\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\btc.png",
+        "source": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\src\\main\\res\\drawable-xhdpi\\btc.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\egp.png",
+        "source": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\src\\main\\res\\drawable-xhdpi\\egp.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "C:\\Users\\Pavlya\\.android\\build-cache\\28e6a633299a9e6dab84f27d145ee2bf794c2c7a\\output\\res\\drawable-xhdpi\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\abc_ic_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\Pavlya\\.android\\build-cache\\28e6a633299a9e6dab84f27d145ee2bf794c2c7a\\output\\res\\drawable-xhdpi\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Pavlya\\.android\\build-cache\\28e6a633299a9e6dab84f27d145ee2bf794c2c7a\\output\\res\\drawable-xhdpi\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "C:\\Users\\Pavlya\\.android\\build-cache\\28e6a633299a9e6dab84f27d145ee2bf794c2c7a\\output\\res\\drawable-xhdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\omr.png",
+        "source": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\src\\main\\res\\drawable-xhdpi\\omr.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\sgd.png",
+        "source": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\src\\main\\res\\drawable-xhdpi\\sgd.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\kwd.png",
+        "source": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\src\\main\\res\\drawable-xhdpi\\kwd.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "C:\\Users\\Pavlya\\.android\\build-cache\\28e6a633299a9e6dab84f27d145ee2bf794c2c7a\\output\\res\\drawable-xhdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\sek.png",
+        "source": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\src\\main\\res\\drawable-xhdpi\\sek.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "C:\\Users\\Pavlya\\.android\\build-cache\\28e6a633299a9e6dab84f27d145ee2bf794c2c7a\\output\\res\\drawable-xhdpi\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\pyg.png",
+        "source": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\src\\main\\res\\drawable-xhdpi\\pyg.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\jod.png",
+        "source": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\src\\main\\res\\drawable-xhdpi\\jod.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "C:\\Users\\Pavlya\\.android\\build-cache\\28e6a633299a9e6dab84f27d145ee2bf794c2c7a\\output\\res\\drawable-xhdpi\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\eek.png",
+        "source": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\src\\main\\res\\drawable-xhdpi\\eek.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\twd.png",
+        "source": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\src\\main\\res\\drawable-xhdpi\\twd.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "C:\\Users\\Pavlya\\.android\\build-cache\\28e6a633299a9e6dab84f27d145ee2bf794c2c7a\\output\\res\\drawable-xhdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Pavlya\\.android\\build-cache\\28e6a633299a9e6dab84f27d145ee2bf794c2c7a\\output\\res\\drawable-xhdpi\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\jmd.png",
+        "source": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\src\\main\\res\\drawable-xhdpi\\jmd.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\qar.png",
+        "source": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\src\\main\\res\\drawable-xhdpi\\qar.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\usd.png",
+        "source": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\src\\main\\res\\drawable-xhdpi\\usd.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\sll.png",
+        "source": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\src\\main\\res\\drawable-xhdpi\\sll.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\bnd.png",
+        "source": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\src\\main\\res\\drawable-xhdpi\\bnd.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\mxn.png",
+        "source": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\src\\main\\res\\drawable-xhdpi\\mxn.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\rsd.png",
+        "source": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\src\\main\\res\\drawable-xhdpi\\rsd.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\Pavlya\\.android\\build-cache\\28e6a633299a9e6dab84f27d145ee2bf794c2c7a\\output\\res\\drawable-xhdpi\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\ars.png",
+        "source": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\src\\main\\res\\drawable-xhdpi\\ars.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\crc.png",
+        "source": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\src\\main\\res\\drawable-xhdpi\\crc.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\npr.png",
+        "source": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\src\\main\\res\\drawable-xhdpi\\npr.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\czk.png",
+        "source": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\src\\main\\res\\drawable-xhdpi\\czk.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\ils.png",
+        "source": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\src\\main\\res\\drawable-xhdpi\\ils.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\Pavlya\\.android\\build-cache\\28e6a633299a9e6dab84f27d145ee2bf794c2c7a\\output\\res\\drawable-xhdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\nzd.png",
+        "source": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\src\\main\\res\\drawable-xhdpi\\nzd.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\gbp.png",
+        "source": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\src\\main\\res\\drawable-xhdpi\\gbp.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\nio.png",
+        "source": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\src\\main\\res\\drawable-xhdpi\\nio.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\_try.png",
+        "source": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\src\\main\\res\\drawable-xhdpi\\_try.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Pavlya\\.android\\build-cache\\28e6a633299a9e6dab84f27d145ee2bf794c2c7a\\output\\res\\drawable-xhdpi\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\eur.png",
+        "source": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\src\\main\\res\\drawable-xhdpi\\eur.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "C:\\Users\\Pavlya\\.android\\build-cache\\28e6a633299a9e6dab84f27d145ee2bf794c2c7a\\output\\res\\drawable-xhdpi\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\thb.png",
+        "source": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\src\\main\\res\\drawable-xhdpi\\thb.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\mur.png",
+        "source": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\src\\main\\res\\drawable-xhdpi\\mur.png"
+    }
+]

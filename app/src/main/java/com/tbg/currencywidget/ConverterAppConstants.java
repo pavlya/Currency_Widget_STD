@@ -6,10 +6,13 @@ import java.io.IOException;
 import java.io.OutputStreamWriter;
 
 public class ConverterAppConstants {
+    public static final String TurkishL = "try";
 	public static final String LOG_TAG = "CurrencyTestConverter";
 	public static final String secondPart = "&to=";
 	public static final String startUrlRE = "http://rate-exchange.appspot.com/currency?from=";
-	public static final String startUrlYahoo = "http://finance.yahoo.com/d/quotes.csv?e=.csv&f=sl1d1t1&s=";
+	public static final String startUrlYahooOld = "http://finance.yahoo.com/d/quotes.csv?e=.csv&f=sl1d1t1&s=";
+	public static final String startUrlYahoo = "http://download.finance.yahoo.com/d/quotes.csv?e=.csv&f=sl1d1t1&s=";
+
 	public static final String endUrlYahoo = "=X";
 //	public static final String REstartURL = "http://";
 	public static final String startUrlFR = "http://www.freecurrencyconverterapi.com/api/convert?q=";

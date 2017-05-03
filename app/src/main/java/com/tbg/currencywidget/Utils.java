@@ -11,6 +11,7 @@ import android.widget.Toast;
 
 import java.io.IOException;
 import java.io.OutputStreamWriter;
+import java.util.logging.*;
 
 import static com.tbg.currencywidget.ConverterAppConstants.LOG_TAG;
 
@@ -39,6 +40,10 @@ public class Utils {
 			return res.getDrawable(R.drawable.place_holder);
 		}
 		String currencyString = currencyAbbreviation.toLowerCase();
+		// turkish lira have _try.png name, because "try" word is reserved in java
+		if (currencyString.equals(ConverterAppConstants.TurkishL)){
+			currencyString = "_" + currencyString;
+		}
 		int drawableID = 0;
 		try {
 			drawableID = res.getIdentifier(currencyString, "drawable",
@@ -48,6 +53,7 @@ public class Utils {
 				return drawable;
 		} catch (Exception e) {
 			// TODO: handle exception
+			Log.d(LOG_TAG, "Cant load image");
 		}
 
 		return res.getDrawable(R.drawable.place_holder);
@@ -56,10 +62,16 @@ public class Utils {
 	public static int getCurrencyDrawableID(Context ctx,
 			String currencyAbbreviation) {
 		Resources res = ctx.getResources();
+
 		if (currencyAbbreviation == null) {
 			return R.drawable.place_holder;
 		}
+
 		String currencyString = currencyAbbreviation.toLowerCase();
+		// turkish lira have _try.png name, because "try" word is reserved in java
+		if (currencyString.equals(ConverterAppConstants.TurkishL)){
+			currencyString = "_" + currencyString;
+		}
 		try {
 			int drawableID = res.getIdentifier(currencyString, "drawable",
 					ctx.getPackageName());

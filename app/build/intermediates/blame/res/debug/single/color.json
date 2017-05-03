@@ -1,90 +1,38 @@
 [
     {
-        "merged": "C:\\!projects\\Currency_Widget\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_background_cache_hint_selector_material_dark.xml",
-        "source": "C:\\!projects\\Currency_Widget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\color\\abc_background_cache_hint_selector_material_dark.xml"
-    },
-    {
-        "merged": "C:\\!projects\\Currency_Widget\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
-        "source": "C:\\!projects\\Currency_Widget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\color\\abc_secondary_text_material_light.xml"
-    },
-    {
         "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
-        "source": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\color\\switch_thumb_material_dark.xml"
-    },
-    {
-        "merged": "C:\\!projects\\Currency_Widget\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_background_cache_hint_selector_material_light.xml",
-        "source": "C:\\!projects\\Currency_Widget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\color\\abc_background_cache_hint_selector_material_light.xml"
-    },
-    {
-        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_background_cache_hint_selector_material_light.xml",
-        "source": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\color\\abc_background_cache_hint_selector_material_light.xml"
-    },
-    {
-        "merged": "C:\\!projects\\Currency_Widget\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
-        "source": "C:\\!projects\\Currency_Widget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\color\\abc_secondary_text_material_dark.xml"
-    },
-    {
-        "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_background_cache_hint_selector_material_dark.xml",
-        "source": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\color\\abc_background_cache_hint_selector_material_dark.xml"
+        "source": "C:\\Users\\Pavlya\\.android\\build-cache\\28e6a633299a9e6dab84f27d145ee2bf794c2c7a\\output\\res\\color\\switch_thumb_material_dark.xml"
     },
     {
         "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
-        "source": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+        "source": "C:\\Users\\Pavlya\\.android\\build-cache\\28e6a633299a9e6dab84f27d145ee2bf794c2c7a\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
     },
     {
         "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
-        "source": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\color\\abc_search_url_text.xml"
-    },
-    {
-        "merged": "C:\\!projects\\Currency_Widget\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
-        "source": "C:\\!projects\\Currency_Widget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\color\\switch_thumb_material_light.xml"
-    },
-    {
-        "merged": "C:\\!projects\\Currency_Widget\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
-        "source": "C:\\!projects\\Currency_Widget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\color\\switch_thumb_material_dark.xml"
+        "source": "C:\\Users\\Pavlya\\.android\\build-cache\\28e6a633299a9e6dab84f27d145ee2bf794c2c7a\\output\\res\\color\\abc_search_url_text.xml"
     },
     {
         "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
-        "source": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\color\\abc_primary_text_material_dark.xml"
+        "source": "C:\\Users\\Pavlya\\.android\\build-cache\\28e6a633299a9e6dab84f27d145ee2bf794c2c7a\\output\\res\\color\\abc_primary_text_material_dark.xml"
     },
     {
         "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
-        "source": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\color\\switch_thumb_material_light.xml"
-    },
-    {
-        "merged": "C:\\!projects\\Currency_Widget\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
-        "source": "C:\\!projects\\Currency_Widget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\color\\abc_search_url_text.xml"
+        "source": "C:\\Users\\Pavlya\\.android\\build-cache\\28e6a633299a9e6dab84f27d145ee2bf794c2c7a\\output\\res\\color\\switch_thumb_material_light.xml"
     },
     {
         "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
-        "source": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\color\\abc_secondary_text_material_light.xml"
-    },
-    {
-        "merged": "C:\\!projects\\Currency_Widget\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
-        "source": "C:\\!projects\\Currency_Widget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\color\\abc_primary_text_material_dark.xml"
-    },
-    {
-        "merged": "C:\\!projects\\Currency_Widget\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
-        "source": "C:\\!projects\\Currency_Widget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
-    },
-    {
-        "merged": "C:\\!projects\\Currency_Widget\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
-        "source": "C:\\!projects\\Currency_Widget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\color\\abc_primary_text_material_light.xml"
+        "source": "C:\\Users\\Pavlya\\.android\\build-cache\\28e6a633299a9e6dab84f27d145ee2bf794c2c7a\\output\\res\\color\\abc_secondary_text_material_light.xml"
     },
     {
         "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
-        "source": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\color\\abc_primary_text_disable_only_material_light.xml"
-    },
-    {
-        "merged": "C:\\!projects\\Currency_Widget\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
-        "source": "C:\\!projects\\Currency_Widget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+        "source": "C:\\Users\\Pavlya\\.android\\build-cache\\28e6a633299a9e6dab84f27d145ee2bf794c2c7a\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
     },
     {
         "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
-        "source": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\color\\abc_primary_text_material_light.xml"
+        "source": "C:\\Users\\Pavlya\\.android\\build-cache\\28e6a633299a9e6dab84f27d145ee2bf794c2c7a\\output\\res\\color\\abc_primary_text_material_light.xml"
     },
     {
         "merged": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
-        "source": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\color\\abc_secondary_text_material_dark.xml"
+        "source": "C:\\Users\\Pavlya\\.android\\build-cache\\28e6a633299a9e6dab84f27d145ee2bf794c2c7a\\output\\res\\color\\abc_secondary_text_material_dark.xml"
     }
 ]

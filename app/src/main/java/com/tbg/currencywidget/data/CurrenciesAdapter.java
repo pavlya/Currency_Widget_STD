@@ -16,6 +16,7 @@ import android.widget.ImageView;
 import android.widget.Switch;
 import android.widget.TextView;
 
+import com.tbg.currencywidget.ConverterAppConstants;
 import com.tbg.currencywidget.Logger;
 import com.tbg.currencywidget.R;
 
@@ -128,6 +129,9 @@ public class CurrenciesAdapter extends CursorAdapter {
 			return res.getDrawable(R.drawable.place_holder);
 		}
 		String currencyString = currencyAbbreviation.toLowerCase();
+		if (currencyString.equals(ConverterAppConstants.TurkishL)){
+			currencyString = "_" + currencyString;
+		}
 		int drawableID = 0;
 		try {
 			drawableID = res.getIdentifier(currencyString, "drawable",

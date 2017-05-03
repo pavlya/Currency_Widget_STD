@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\debug\\values-h720dp-v13\\values-h720dp-v13.xml",
+        "outputFile": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-h720dp-v13\\values-h720dp-v13.xml",
         "map": [
             {
                 "to": {
@@ -11,31 +11,7 @@
                     "endOffset": 117
                 },
                 "from": {
-                    "file": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-h720dp\\values-h720dp.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 232,
-                        "endColumn": 66,
-                        "endOffset": 294
-                    }
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "C:\\!projects\\Currency_Widget\\app\\build\\intermediates\\res\\merged\\debug\\values-h720dp-v13\\values-h720dp-v13.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 66,
-                    "endOffset": 117
-                },
-                "from": {
-                    "file": "C:\\!projects\\Currency_Widget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-h720dp\\values-h720dp.xml",
+                    "file": "C:\\Users\\Pavlya\\.android\\build-cache\\28e6a633299a9e6dab84f27d145ee2bf794c2c7a\\output\\res\\values-h720dp\\values-h720dp.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,

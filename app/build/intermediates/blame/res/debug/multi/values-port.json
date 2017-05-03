@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\!projects\\Currency_Widget\\app\\build\\intermediates\\res\\merged\\debug\\values-port\\values-port.xml",
+        "outputFile": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-port\\values-port.xml",
         "map": [
             {
                 "to": {
@@ -11,31 +11,7 @@
                     "endOffset": 106
                 },
                 "from": {
-                    "file": "C:\\!projects\\Currency_Widget\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-port\\values-port.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 229,
-                        "endColumn": 55,
-                        "endOffset": 280
-                    }
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\res\\merged\\debug\\values-port\\values-port.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 55,
-                    "endOffset": 106
-                },
-                "from": {
-                    "file": "C:\\Users\\Pavlya\\AndroidStudioProjects\\Currency_Widget_STD\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-port\\values-port.xml",
+                    "file": "C:\\Users\\Pavlya\\.android\\build-cache\\28e6a633299a9e6dab84f27d145ee2bf794c2c7a\\output\\res\\values-port\\values-port.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,

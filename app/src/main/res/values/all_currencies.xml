@@ -91,6 +91,7 @@
         <item>"YER"</item>
         <item>"ZAR"</item>
         <item>"ZMK"</item>
+        <item>"BTC"</item>
     </string-array>
     <string-array name="all_currencies_names">
         <item>"United ArabEmirates Dirham"</item>
@@ -182,6 +183,7 @@
         <item>"Yemeni Rial"</item>
         <item>"South African Rand"</item>
         <item>"Zambian Kwachapre"</item>
+        <item>"Bitcoin"</item>
     </string-array>
 
 </resources>
