@@ -2,60 +2,94 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\Pavlya\AndroidStudioProjects\Currency_Widget_STD\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
-        <dex dex="C:\Users\Pavlya\AndroidStudioProjects\Currency_Widget_STD\app\build\intermediates\pre-dexed\release\internal_impl-23.1.1_72c27bd9510e82cd617bcf3ddc66f446af9261fe.jar" />
+        is-multidex="true"
+        jar="C:\Users\Pavlya\AndroidStudioProjects\Currency_Widget_STD\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\Pavlya\AndroidStudioProjects\Currency_Widget_STD\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_22a2c155a9c8a8603611864e65c9b7de1d0b78cc\classes.dex" />
     </item>
     <item
-        jar="C:\Users\Pavlya\AndroidStudioProjects\Currency_Widget_STD\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
-        <dex dex="C:\Users\Pavlya\AndroidStudioProjects\Currency_Widget_STD\app\build\intermediates\pre-dexed\release\com.android.support-support-v4-23.1.1_b8f27b4cc45055f988d02c3eb2981c61399257e0.jar" />
-    </item>
-    <item
-        jar="C:\Users\Pavlya\AndroidStudioProjects\Currency_Widget_STD\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
-        <dex dex="C:\Users\Pavlya\AndroidStudioProjects\Currency_Widget_STD\app\build\intermediates\pre-dexed\release\com.android.support-design-23.1.1_53175e470e01bf1ea791faaabedd183d12f63354.jar" />
-    </item>
-    <item
-        jar="C:\Users\Pavlya\AndroidStudioProjects\Currency_Widget_STD\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.3.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="345a1b5cf5b144ce18ba6962bc66a7e2f26c1c1b">
-        <dex dex="C:\Users\Pavlya\AndroidStudioProjects\Currency_Widget_STD\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-basement-8.3.0_f0e8c930690660af554c19f5f20e807b2d19c9c4.jar" />
-    </item>
-    <item
-        jar="E:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
-        <dex dex="C:\Users\Pavlya\AndroidStudioProjects\Currency_Widget_STD\app\build\intermediates\pre-dexed\release\support-annotations-23.1.1_aa5c5cff6a92560fa20d72dfd632fd3c7d00957e.jar" />
-    </item>
-    <item
-        jar="C:\Users\Pavlya\AndroidStudioProjects\Currency_Widget_STD\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
+        is-multidex="true"
+        jar="C:\Users\Pavlya\.android\build-cache\28e6a633299a9e6dab84f27d145ee2bf794c2c7a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
         sha1="5c5699834e9722f1c288fea2de82725d078ba127">
-        <dex dex="C:\Users\Pavlya\AndroidStudioProjects\Currency_Widget_STD\app\build\intermediates\pre-dexed\release\com.android.support-appcompat-v7-23.1.1_70dfa4351fa118dd15d80e5483c1be413d034250.jar" />
+        <dex dex="C:\Users\Pavlya\AndroidStudioProjects\Currency_Widget_STD\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_83f498c9ea442dfbb4e22981950af2f52658e417\classes.dex" />
     </item>
     <item
-        jar="C:\Users\Pavlya\AndroidStudioProjects\Currency_Widget_STD\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
-        <dex dex="C:\Users\Pavlya\AndroidStudioProjects\Currency_Widget_STD\app\build\intermediates\pre-dexed\release\com.android.support-recyclerview-v7-23.1.1_9fb4fa20595e71134738948127c7d3abf8ef587e.jar" />
+        is-multidex="true"
+        jar="C:\Users\Pavlya\.android\build-cache\48ad767c17429958ee8ccfa3fafb1983f50795bd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\Pavlya\AndroidStudioProjects\Currency_Widget_STD\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b16d6a5fa17f9f9dd97cb06a85f73a37907edbbf\classes.dex" />
     </item>
     <item
-        jar="C:\Users\Pavlya\AndroidStudioProjects\Currency_Widget_STD\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.3.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
+        is-multidex="true"
+        jar="C:\Users\Pavlya\.android\build-cache\1ddb05c62daef1c64fc57ad6b959fe8bca6d9ac6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
         sha1="27775d59b16610ac76f1b83693fedd9520396332">
-        <dex dex="C:\Users\Pavlya\AndroidStudioProjects\Currency_Widget_STD\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-ads-8.3.0_ee58119440967857d20529de0a61d436737e82c2.jar" />
+        <dex dex="C:\Users\Pavlya\AndroidStudioProjects\Currency_Widget_STD\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c14193f0d4ee4c8339cfab01af3e9fbf9258ca94\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pavlya\.android\build-cache\31b22c31c20290247cb846c7bc9020ca091a7cad\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="C:\Users\Pavlya\AndroidStudioProjects\Currency_Widget_STD\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3e4dd54f5c4711b0dee80612b747efb1c50a8e7a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pavlya\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\Users\Pavlya\AndroidStudioProjects\Currency_Widget_STD\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.1.1_9d2d5593d6205d65b625dcbb93f2179c97619959\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pavlya\AndroidStudioProjects\Currency_Widget_STD\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a7021caf6035143c3a7c4e16ab75d243856818c4">
+        <dex dex="C:\Users\Pavlya\AndroidStudioProjects\Currency_Widget_STD\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_490d965d442a37a92f4e22ea1471b53ddfb69a97\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pavlya\.android\build-cache\0753d47badad6c36049b24848801cfe6df97e1f0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="C:\Users\Pavlya\AndroidStudioProjects\Currency_Widget_STD\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f500214f3ef0c0bedd2bfeee7fe4ea3214a42a4a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pavlya\.android\build-cache\48ad767c17429958ee8ccfa3fafb1983f50795bd\output\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\Pavlya\AndroidStudioProjects\Currency_Widget_STD\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.1.1_4de618b3928a023890b6eedb35bb927f779cda1d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pavlya\.android\build-cache\a6b947dc0f02c190959b210e8ff76678d650fa3c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="345a1b5cf5b144ce18ba6962bc66a7e2f26c1c1b">
+        <dex dex="C:\Users\Pavlya\AndroidStudioProjects\Currency_Widget_STD\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bb5c66eb4c6bc59946f9e7cdd61a37243b8db76e\classes.dex" />
     </item>
 
 </items>
